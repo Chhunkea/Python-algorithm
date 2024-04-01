@@ -1,3 +1,5 @@
+#TODO: Number of divisors
+
 # quiz (divisor 8 form 1 to 8)
 print(8 / 1)
 
@@ -19,3 +21,6 @@ def solve(N):
 N = int(input())
 print(solve(N))
 
+# input: 10
+# Output: 3
+# its count the divisor of 10 (1, 2, 5 ,10)

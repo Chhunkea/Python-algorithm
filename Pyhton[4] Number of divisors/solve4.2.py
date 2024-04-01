@@ -15,3 +15,5 @@ start = time.time()
 print(solve(N))
 end = time.time()
 print(f'solve() elapsed time : {end - start}')
+
+# sqrt is the root that it takes
